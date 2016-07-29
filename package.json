@@ -1,0 +1,19 @@
+{
+  "name": "printify",
+  "version": "1.0.0",
+  "description": "Easy HTML print formatting. [Preview here](http://e-conomic.github.io/printify)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debitoor/printify.git"
+  },
+  "author": "debitoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debitoor/printify/issues"
+  },
+  "homepage": "https://github.com/debitoor/printify#readme"
+}

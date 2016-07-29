@@ -1,10 +1,10 @@
 # Printify
 
-Easy HTML print formatting. [Preview here](http://e-conomic.github.io/printify)
+Easy HTML print formatting.
 
 ## Usage
 
-First include [printify.js](https://github.com/e-conomic/printify/blob/master/printify.js) in your HTML page.
+First include [printify.js](https://github.com/debitoor/printify/blob/master/printify.js) in your HTML page.
 This exposes a global function called `printify`.
 Simply call this on your content div you want formatted for printing
 
