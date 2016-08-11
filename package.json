@@ -1,6 +1,6 @@
 {
   "name": "printify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy HTML print formatting. [Preview here](http://e-conomic.github.io/printify)",
   "main": "index.js",
   "scripts": {

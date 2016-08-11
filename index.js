@@ -1,5 +1,4 @@
-/* global printify */
-window.printify = (function () {
+module.exports = window.printify = (function () {
 	var dimensions = {};
 
 	var noop = function () {
