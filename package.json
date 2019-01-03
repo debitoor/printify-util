@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/debitoor/printify.git"
+    "url": "git+https://github.com/debitoor/printify-util.git"
   },
   "author": "debitoor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/debitoor/printify/issues"
+    "url": "https://github.com/debitoor/printify-util/issues"
   },
-  "homepage": "https://github.com/debitoor/printify#readme"
+  "homepage": "https://github.com/debitoor/printify-util#readme"
 }
