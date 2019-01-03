@@ -4,7 +4,7 @@ Easy HTML print formatting.
 
 ## Usage
 
-First include [printify.js](https://github.com/debitoor/printify/blob/master/printify.js) in your HTML page.
+First include [printify.js](https://github.com/debitoor/printify-util/blob/master/printify.js) in your HTML page.
 This exposes a global function called `printify`.
 Simply call this on your content div you want formatted for printing
 
